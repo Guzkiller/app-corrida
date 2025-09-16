@@ -167,7 +167,7 @@ export default function RunningApp() {
             <div>
               <h1 className="text-3xl font-bold flex items-center gap-2">
                 <Activity className="w-8 h-8" />
-                RunTracker
+                Corridinhas
               </h1>
               <p className="text-orange-100 mt-1">Sua jornada de corrida começa aqui</p>
             </div>
