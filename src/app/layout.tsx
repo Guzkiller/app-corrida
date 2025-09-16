@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RunTracker - Seu App de Corrida",
+  title: "Corridinhas - Seu App de Corrida",
   description: "Acompanhe suas corridas, ganhe XP e desbloqueie conquistas",
 };
 
